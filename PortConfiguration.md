@@ -1,5 +1,5 @@
 To configure the port for live server you will need to do the following:
-<div></div>
+
 1. Press on "File" in the top left corner of VS
 2. Hover/press on "Preferences"
 3. Press on "Settings"

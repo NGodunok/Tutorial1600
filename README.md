@@ -16,4 +16,4 @@ How to Create a Webpage
 3. Create a file, up to you what you want to make and with what (html, c#, etc.)
 4. Finally, in the bottom right corner press the "go live" button.
 
-[Local host configuration]()&nbsp;&nbsp;&nbsp;&nbsp;[JavaScript walkthrough]() 
+[Local host configuration](PortConfiguration.md)&nbsp;&nbsp;&nbsp;&nbsp;[JavaScript walkthrough]() 
